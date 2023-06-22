@@ -25,9 +25,13 @@
 body{
     background-color: #4e54c8;
     font-family: 'Courier New', Courier, monospace;
+    max-width:100vw;
+    overflow-x: hidden;
     
     
-}
+    }
+    
+
 
 
 .context {
